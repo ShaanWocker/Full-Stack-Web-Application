@@ -1,0 +1,9 @@
+[submodule "client"]
+	path = client
+	url = https://github.com/ShaanWocker/HF-E-Commerce.git
+[submodule "admin"]
+	path = admin
+	url = https://github.com/ShaanWocker/Admin-Dashboard.git
+[submodule "api"]
+	path = api
+	url = https://github.com/ShaanWocker/E-Commerce_REST_API.git
